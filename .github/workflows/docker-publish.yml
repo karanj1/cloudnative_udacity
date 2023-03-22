@@ -39,7 +39,7 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           context: ./nd064_course_1/exercises/python-helloworld/
-          file: ./Dockerfile
+          file: ./nd064_course_1/exercises/python-helloworld//Dockerfile
           platforms: linux/amd64
           push: true
           tags: karanj01/python-helloworld:latest
