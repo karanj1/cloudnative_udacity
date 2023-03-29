@@ -4,6 +4,7 @@ namespace:
 service:
   port: 8111
   type: ClusterIP
+  targetPort: 80
 
 image:
   repository: nginx 
