@@ -1,0 +1,63 @@
+2023-03-30 23:48:15,138 _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3111
+ * Running on http://192.168.125.128:3111
+2023-03-30 23:48:15,138 _internal : [33mPress CTRL+C to quit[0m
+2023-03-30 23:48:20,732 app : The About Us page is retrieved
+2023-03-30 23:48:20,742 _internal : 127.0.0.1 - - [30/Mar/2023 23:48:20] "GET /about HTTP/1.1" 200 -
+2023-03-30 23:48:20,793 _internal : 127.0.0.1 - - [30/Mar/2023 23:48:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:48:33,459 _internal : 127.0.0.1 - - [30/Mar/2023 23:48:33] "GET / HTTP/1.1" 200 -
+2023-03-30 23:48:33,513 _internal : 127.0.0.1 - - [30/Mar/2023 23:48:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:25,417 _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3111
+ * Running on http://192.168.125.128:3111
+2023-03-30 23:49:25,418 _internal : [33mPress CTRL+C to quit[0m
+2023-03-30 23:49:28,345 app : Post Title 2020 CNCF Annual Report
+2023-03-30 23:49:28,355 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:28] "GET /1 HTTP/1.1" 200 -
+2023-03-30 23:49:28,397 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:29,412 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:29] "GET / HTTP/1.1" 200 -
+2023-03-30 23:49:29,452 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:30,364 app : Post Title Kubernetes v1.20 Release Notes
+2023-03-30 23:49:30,365 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:30] "GET /3 HTTP/1.1" 200 -
+2023-03-30 23:49:30,434 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:32,299 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:32] "GET / HTTP/1.1" 200 -
+2023-03-30 23:49:32,348 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:49,280 app : Post Title CNCF Cloud Native Interactive Landscape
+2023-03-30 23:49:49,281 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:49] "GET /4 HTTP/1.1" 200 -
+2023-03-30 23:49:49,334 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:51,764 app : The About Us page is retrieved
+2023-03-30 23:49:51,770 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:51] "GET /about HTTP/1.1" 200 -
+2023-03-30 23:49:51,814 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:52,988 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:52] "GET / HTTP/1.1" 200 -
+2023-03-30 23:49:53,042 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:54,641 app : Post Title CNCF Cloud Native Definition v1.0
+2023-03-30 23:49:54,641 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:54] "GET /5 HTTP/1.1" 200 -
+2023-03-30 23:49:54,706 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:49:55,858 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:55] "GET / HTTP/1.1" 200 -
+2023-03-30 23:49:56,012 _internal : 127.0.0.1 - - [30/Mar/2023 23:49:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:07,750 app : Post Title KubeCon + CloudNativeCon 2021
+2023-03-30 23:50:07,751 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:07] "GET /2 HTTP/1.1" 200 -
+2023-03-30 23:50:07,824 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:09,531 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:09] "GET / HTTP/1.1" 200 -
+2023-03-30 23:50:09,607 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:11,092 app : Post Title CNCF Cloud Native Interactive Landscape
+2023-03-30 23:50:11,094 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:11] "GET /4 HTTP/1.1" 200 -
+2023-03-30 23:50:11,149 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:12,656 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:12] "GET / HTTP/1.1" 200 -
+2023-03-30 23:50:12,693 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:14,202 app : Post Title CNCF Cloud Native Definition v1.0
+2023-03-30 23:50:14,203 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:14] "GET /5 HTTP/1.1" 200 -
+2023-03-30 23:50:14,255 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:50:17,234 app : the post ID is not found a 404 page is shown
+2023-03-30 23:50:17,237 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:17] "[33mGET /51 HTTP/1.1[0m" 404 -
+2023-03-30 23:50:17,290 _internal : 127.0.0.1 - - [30/Mar/2023 23:50:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:51:25,546 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:25] "GET / HTTP/1.1" 200 -
+2023-03-30 23:51:25,608 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:51:52,095 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:52] "GET / HTTP/1.1" 200 -
+2023-03-30 23:51:52,138 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:51:53,313 app : Post Title 2020 CNCF Annual Report
+2023-03-30 23:51:53,314 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:53] "GET /1 HTTP/1.1" 200 -
+2023-03-30 23:51:53,363 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-03-30 23:51:54,195 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:54] "GET / HTTP/1.1" 200 -
+2023-03-30 23:51:54,251 _internal : 127.0.0.1 - - [30/Mar/2023 23:51:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
